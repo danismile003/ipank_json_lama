@@ -2,7 +2,7 @@
 ],
 "Daftarmenu":
 [
-
+{"id":2,"maeman":"Playlist 02  (Online)","gambar":"https://asset.kompas.com/crops/NGuxzMskUg6takCX2mJVKoIT82I=/0x0:511x341/490x326/data/photo/2020/08/25/5f44be418d6d0.jpg"},
 {"id":3,"maeman":"Playlist 03  (Online)","gambar":"https://4.bp.blogspot.com/-ju-km0Dbt8A/XfT0iYDXbMI/AAAAAAAALEc/THi4ddIvA5gLZk2Yr7ItQOpSJmWN_fOZgCLcBGAsYHQ/w640/Thomas.Arya.Setia.Berselimut.Duka.jpg"},
 {"id":4,"maeman":"Playlist 04  (Online)","gambar":"https://cdn2.tstatic.net/sumsel/foto/bank/images/gaun-merah.jpg"},
 {"id":5,"maeman":"Playlist 05  (Online)","gambar":"https://i.ytimg.com/vi/HlhZ-yAUwOU/maxresdefault.jpg"}
@@ -10,7 +10,7 @@
 
 "Batagor":
 [
-{"no":1,"idmp3":"1","maeman_aut":"Playlist 01 (Offline)","artist":"DJ Remix","type":"raw","title":"Andra Respati Feat Ovhi Firsty - Manunggu Janji","file_path":"file_34235654.mp3"},
+{"no":1,"idmp3":"1","maeman_aut":"Playlist 01 (Offline)","artist":"DJ Remix","type":"raw","title":"Andra Respati Feat Ovhi Firsty - Manunggu Janji","file_path":"file_34235654"},
 {"no":2,"idmp3":"2","maeman_aut":"Playlist 01 (Offline)","artist":"DJ Remix","type":"raw","title":"Andra Respati ft Elsa Pitaloka - Ketika Cinta Menangis Lagu Minang Terbaru","file_path":"file_34235655"},
 {"no":3,"idmp3":"3","maeman_aut":"Playlist 01 (Offline)","artist":"DJ Remix","type":"raw","title":"Apakah Itu Cinta - IPANK [Sound Track Film Minangkabau Cinta Aini]","file_path":"file_34235656"},
 {"no":4,"idmp3":"4","maeman_aut":"Playlist 01 (Offline)","artist":"DJ Remix","type":"raw","title":"CINTA SATU TUJUAN (IPANK)","file_path":"file_34235657"},
